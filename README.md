@@ -11,7 +11,6 @@ O objetivo deste repositório é fornecer uma plataforma para a análise e explo
 
 
 1. Quantos usuários (Hosts) únicos cadastrados existemdentro da base de dados da cidade de Nova York?
-2. Como é a variação do preços dos imóveis em NY?
 3. Existem mais imóveis baratos ou caros?
 4. Qual a distribuição do número de Reviews? 
 5. Qual é o intervalo de variação do preço dos alugueis dos imóveis?
@@ -30,12 +29,10 @@ Nesta segunda parte, após uma nova rodada de perguntas do CEO e análises adici
 
 Quantos usuários (Hosts) únicos cadastrados existemdentro da base de dados da cidade de Nova York: são 37.457 hosts únicos cadastrados dentro da base de dados.
 
-Como é a variação do preços dos imóveis em NY: A variação média dos preços é média de U$ 152.72 com desvio padrão de U$ 240.15. 
-
 Existem mais imóveis baratos ou caros: Há mais de 2.000 imóveis com valores de aluguel inferiores a U$ 100 dólares, indicando uma concentração significativa de propriedades com preços mais baixos. Essa prevalência sugere que a maioria dos imóveis disponíveis para locação na cidade se enquadra na categoria de aluguéis mais acessíveis.
 
 Qual a distribuição do número de Reviews: Há quase 30.000 imóveis com até 10 avaliações, Ou seja, existem muitos imóveis com poucas avaliações.
 
-Qual é o intervalo de variação do preço dos alugueis dos imóveis: O preco medio de aluguel em NY eh U$152.72 +/- U$240.15
+Qual é o intervalo de variação do preço dos alugueis dos imóveis: A variação média dos preços é média de U$ 152.72 com desvio padrão de U$ 240.15. 
 
 
